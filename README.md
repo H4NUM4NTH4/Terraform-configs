@@ -1,11 +1,11 @@
-# Terraform Configs
+# Terraform Learning Configs
 
-Personal reference repo built for learning Terraform. Each folder is a standalone mini-project covering a specific concept & AWS service.
+Personal reference repo built while learning Terraform. Each folder is a standalone mini-project covering a specific concept or AWS service.
 
 ## What's Inside
 
-| Folder |
-|---|---|
+| Folder | What I Learned |
+|--------|----------------|
 | `tf-variables` | Variables, locals, tfvars |
 | `tf-functions` | Built-in Terraform functions |
 | `tf-data-sources` | Fetching existing resources |
